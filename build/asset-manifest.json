@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.161be314.css",
+    "main.js": "/static/js/main.51fc6a43.js",
+    "static/media/generic-pc.png": "/static/media/generic-pc.89a9509d8a291591edaa.png",
+    "static/media/Red-ITT.png": "/static/media/Red-ITT.983a4fa1ceeab3c7f8a1.png",
+    "static/media/normasUso.png": "/static/media/normasUso.5e134c20885442d3e4c8.png",
+    "index.html": "/index.html",
+    "main.161be314.css.map": "/static/css/main.161be314.css.map",
+    "main.51fc6a43.js.map": "/static/js/main.51fc6a43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161be314.css",
+    "static/js/main.51fc6a43.js"
+  ]
+}
