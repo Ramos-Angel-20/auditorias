@@ -1,0 +1,33 @@
+.schema {
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.schema img {
+  max-width: 100%;
+  border-radius: 1rem;
+}
+
+.schema main h1 {
+  text-decoration: underline;
+  text-align: center;
+  margin: 2rem 0;  
+}
+
+.text {
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin: 4rem 0;
+}
+
+.text span {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.text ul {
+  padding: 1rem;
+}
+

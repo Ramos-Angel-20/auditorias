@@ -1,0 +1,28 @@
+.termsUse {
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.termsUse img {
+  max-width: 100%;
+  border-radius: 1rem;
+  margin: 0 auto;
+}
+
+.termsUse h1 {
+  text-align: center;
+  text-decoration: underline;
+  margin: 2rem 0;
+}
+
+.text {
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin: 4rem 0;
+}
+
+.text ul {
+  padding: 1rem;
+}

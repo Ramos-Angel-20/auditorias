@@ -1,0 +1,14 @@
+.hero {
+  background-color: #fff;
+  margin: 2rem auto;
+  width: 90%;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+  padding: 2rem;
+  max-width: 1400px;
+}
+
+.hero span {
+  color: #1a8c0f;
+  font-weight: 700;
+}

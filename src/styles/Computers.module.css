@@ -1,0 +1,25 @@
+.computers {
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.computers h1 {
+  text-align: center;
+  text-decoration: underline;
+  margin: 1rem 0;
+}
+
+.grid {
+  width: 100%;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, minmax(40rem, 1fr));
+  gap: 1rem;
+}
+
+/* @media screen and (min-width: 768px) {
+  .computers main {
+    grid-template-columns: repeat(4, 1fr);
+  } 
+} */

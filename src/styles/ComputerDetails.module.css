@@ -1,0 +1,29 @@
+.details {
+  width: 90%;
+  max-width: 1400px;
+  margin: 3rem auto;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+}
+
+.text p {
+  font-weight: 700;
+}
+
+.text ul {
+  font-weight: 400;
+  padding: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  .details {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .details img {
+    width: 50rem;
+  }
+}
